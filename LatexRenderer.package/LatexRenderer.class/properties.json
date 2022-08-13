@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "Wosined 8/13/2022 20:01",
+	"super" : "Object",
+	"category" : "LatexRenderer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"document"
+	],
+	"name" : "LatexRenderer",
+	"type" : "normal"
+}
